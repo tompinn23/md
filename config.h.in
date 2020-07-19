@@ -1,0 +1,6 @@
+#pragma once
+
+#cmakedefine HAVE_DIRENT_H
+#cmakedefine HAVE_DL_H
+
+
